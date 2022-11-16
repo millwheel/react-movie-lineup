@@ -1,3 +1,9 @@
+# React Movie first
+
+- This is Movie website create by ReactJS.
+- This is practice of ReactJs for beginner.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
