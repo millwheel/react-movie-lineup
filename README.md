@@ -1,9 +1,10 @@
-# React Movie first
+# Summary
 
-- This is Movie website create by ReactJS.
-- This is practice of ReactJs for beginner.
+- This is the website that shows recommended movie line-up.
+- This is a practice of ReactJs for beginner.
+- This uses the API of https://yts.mx/
 
-# Deploy Website Address
+# Website Address
 
 https://millwheel.github.io/react-movie-first
 
