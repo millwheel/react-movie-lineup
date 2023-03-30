@@ -69,3 +69,9 @@
     padding: 10px 20px;
     border-radius: 5px;
 }
+
+.link:hover{
+    background-color: red;
+    color:yellow;
+    transition: 0.5s;
+}

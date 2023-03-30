@@ -50,3 +50,7 @@
     background-color: gold;
     font-weight: 600;
 }
+
+.movie_genres ul:hover{
+    cursor: pointer;
+}
